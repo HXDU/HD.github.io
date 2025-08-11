@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hanxiang Du"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Hanxiang Du"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Washington, United States"
   employer         : "Western Washington University"
   uri              : # URL
-  #email            : "" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=rCFZVYkAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # 
+  orcid            : # URL
   semantic         : # URL
-  #pubmed           : # URL
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  #github           : # 
+  github           : # 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
