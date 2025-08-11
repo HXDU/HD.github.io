@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Hanxiang Du"
 description              : &description "personal description"
-url                      : "https://hxdu.github.io/"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
