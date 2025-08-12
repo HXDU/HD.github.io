@@ -2,7 +2,7 @@
 title: "Origami-based Collaborative Spatial Problem-Solving: Multimodal Observational Study"
 collection: publications
 category: manuscripts
-permalink: /publication/Orgami
+permalink: /publication/Orgami**2009-10-01-paper-title-number-1
 excerpt: 'The study examined students' spatial collaborative problem-solving behaviors when engaging in a design task dependent on spatial reasoning. '
 date: 2025-07
 venue: 'Journal 1'
