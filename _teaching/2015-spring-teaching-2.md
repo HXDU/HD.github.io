@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CSCI 497C/597C: Calling BS in Big Data & AI"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate/Graduate course"
+venue: CS
+date: 2025-01-06
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a new elective course I developed based on the book *Calling Bullshit: The Art of Skepticism in a Data-Driven World*, by Carl Bergstrom and Jevin West. The book, however, is only part of the course content. This course also covers other related topics such as AI ethics, prompt engineering, social network analysis, data visualization, and experiment design. 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
