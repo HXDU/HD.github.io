@@ -3,7 +3,7 @@ title: "Origami-based collaborative spatial problem-solving: Multimodal observat
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The study examined students\'s spatial collaborative problem-solving behaviors when engaging in a design task dependent on spatial reasoning by applying Epistemic Network Analysis and sequential pattern mining techniques.'
+excerpt: 'The study examined students\' spatial collaborative problem-solving behaviors when engaging in a design task dependent on spatial reasoning by applying Epistemic Network Analysis and sequential pattern mining techniques.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
