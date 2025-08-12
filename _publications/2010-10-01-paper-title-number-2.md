@@ -2,7 +2,7 @@
 title: "Using Markov Chains to Understand Clinical Decision-Making Process"
 collection: publications
 category: manuscripts
-excerpt: 'We utilized Markov Chain Transition Matrix to analyze participants\’ practices using team reflection behavioral observation system and identified statistically significant differences between their transition matrices.'
+excerpt: 'We utilized Markov Chain Transition Matrix to analyze participants’ practices using team reflection behavioral observation system and identified statistically significant differences between their transition matrices.'
 date: 2025-06-01
 venue: 'Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning-CSCL 2025'
 paperurl: 'https://repository.isls.org/bitstream/1/11870/1/CSCL2025_345-349.pdf'
