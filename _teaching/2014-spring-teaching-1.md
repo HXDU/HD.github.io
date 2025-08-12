@@ -5,7 +5,7 @@ category: CS
 type: "Undergraduate course"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an introductory level programming course focusing on Java and linear data structures. I adopted live coding to prompt engagement and active learning. 
 
 Heading 1
 ======
