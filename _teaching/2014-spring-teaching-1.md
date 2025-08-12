@@ -2,6 +2,7 @@
 title: "CSCI 145: Computer Programming and Linear Data Structures"
 collection: teaching
 type: "Undergraduate course"
+venue: CS
 date: 2024-01-06
 ---
 
