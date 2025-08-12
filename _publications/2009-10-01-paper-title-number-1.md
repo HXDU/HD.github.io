@@ -7,7 +7,7 @@ excerpt: 'The study examined students spatial collaborative problem-solving beha
 date: 2025-07-01
 venue: 'Thinking Skills and Creativity'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1871187125001695'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
