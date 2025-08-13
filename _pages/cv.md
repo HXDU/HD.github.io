@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D  University of Florida, 2023
-* M.A.  Sun-Yet Sen University, China
-* B.A.  Sun-Yet Sen University, China
+* Ph.D,  University of Florida, 2023
+* M.A.,  Sun-Yet Sen University, China
+* B.A.,  Sun-Yet Sen University, China
 
 Professional appointment
 ======
