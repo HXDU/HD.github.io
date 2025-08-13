@@ -1,7 +1,7 @@
 ---
 title: "SCED 205: Introduction to Computing Education"
 collection: teaching
-excerpt: "This course is designed for prospective K-12 computer science teachers but open to all students."
+excerpt: "This course is designed for prospective K-12 computer science teachers."
 type: "Undergraduate course"
 venue: SMATE
 date: 2026-01-06
