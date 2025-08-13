@@ -17,6 +17,5 @@ Education
 
 Professional appointment
 ======
-* 2023 till now: Assistant Professor
-  * Western Washington University
+* 2023-, Assistant Professor, Western Washington University
   
