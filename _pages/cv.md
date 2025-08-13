@@ -22,8 +22,8 @@ Professional appointment
   
 Service
 ======
-* I serve as an ad-hoc reviewer for pretigous peer-reviewed journals, such as *Distance Education*, *Educational Technology & Society*, *Interactive Learning Environments*, *Journal of Computer Assisted Learning*, *Journal of Educational Computing Research*, *Journal of Science Education and Technology*, and *The Internet and Higher Education*.
-* I constantly serve as a program committee member for pretigous conferences, such as SIGCSE, ITiCSE, ISLS (both ICLS and CSCL), and AERA.
+* I serve as an ad-hoc reviewer for peer-reviewed journals, such as *Distance Education*, *Educational Technology & Society*, *Interactive Learning Environments*, *Journal of Computer Assisted Learning*, *Journal of Educational Computing Research*, *Journal of Science Education and Technology*, and *The Internet and Higher Education*.
+* I constantly serve as a program committee member for conferences, such as SIGCSE, ITiCSE, ISLS (both ICLS and CSCL), and AERA.
 
 Activities & Honors
 ======
