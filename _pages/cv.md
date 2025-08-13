@@ -18,4 +18,13 @@ Education
 Professional appointment
 ======
 * 2023-, Assistant Professor, Western Washington University
+* 2019-2023, Research Assistant, University of Florida
   
+Service
+======
+* I serve as an ad-hoc reviewer for many peer-reviewed journals, such as *Distance Education*, *Educational Technology & Society*, *Interactive Learning Environments*, *Journal of Computer Assisted Learning*, *Journal of Educational Computing Research*, *Journal of Science Education and Technology*, and *The Internet and Higher Education*.
+* I constantly serve as program committee members for conferences, such as SIGCSE, ITiCSE, ISLS (both ICLS and CSCL), and AERA.
+
+Activities & Honors
+======
+* AERA Division C (Learning & Instruction) New Faculty Mentoring Program, 2024
